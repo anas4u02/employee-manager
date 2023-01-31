@@ -28,4 +28,8 @@ export class AppComponent implements OnInit{
       }
       );
   }
+
+  public onOpenModal(){
+    
+  }
 }
